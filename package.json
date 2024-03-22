@@ -1,0 +1,45 @@
+{
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/plugin-proposal-object-rest-spread": "^7.0.0",
+    "@babel/plugin-syntax-object-rest-spread": "^7.0.0",
+    "@babel/plugin-transform-arrow-functions": "^7.0.0",
+    "@babel/plugin-transform-block-scoping": "^7.0.0",
+    "@babel/plugin-transform-classes": "^7.0.0",
+    "@babel/plugin-transform-computed-properties": "^7.0.0",
+    "@babel/plugin-transform-destructuring": "^7.0.0",
+    "@babel/plugin-transform-member-expression-literals": "^7.0.0",
+    "@babel/plugin-transform-parameters": "^7.0.0",
+    "@babel/plugin-transform-property-literals": "^7.0.0",
+    "@babel/plugin-transform-shorthand-properties": "^7.0.0",
+    "@babel/plugin-transform-spread": "^7.0.0",
+    "@babel/plugin-transform-template-literals": "^7.0.0",
+    "babelify": "^10.0.0",
+    "browser-pack-flat": "^3.2.0",
+    "browserify": "^16.2.2",
+    "browserify-versionify": "^1.0.6",
+    "envify": "^4.1.0",
+    "exorcist": "^1.0.1",
+    "lerna": "^2.11.0",
+    "standard": "^11.0.1",
+    "uglify-js": "^3.4.9"
+  },
+  "standard": {
+    "ignore": [
+      "dist",
+      "examples",
+      "features",
+      "**/node_modules/**",
+      "fixtures",
+      "scratch"
+    ]
+  },
+  "name": "solutasequi",
+  "author": "KoryBradtke",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TerrillFriesen/solutasequi.git"
+  },
+  "homepage": "https://github.com/TerrillFriesen/solutasequi.git",
+  "version": "1.0.0"
+}
